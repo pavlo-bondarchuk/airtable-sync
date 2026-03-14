@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Airtable → WordPress Sync 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/airtable-sync\n"
+"POT-Creation-Date: 2025-02-17 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/mapping-page.php:10
+msgid "Airtable Sync — Field Mapping"
+msgstr ""
+
+#: admin/import-page.php:10
+msgid "Airtable Sync — Import / Sync"
+msgstr ""
+
+#: admin/settings-page.php:10
+msgid "Airtable Sync — Settings"
+msgstr ""
+
+#: includes/class-ajax-handlers.php:50
+msgid "No post type selected"
+msgstr ""
+
+#: includes/class-ajax-handlers.php:85
+msgid "Mapping saved"
+msgstr ""
+
+#: includes/class-sync-manager.php:40
+msgid "Sync completed"
+msgstr ""
